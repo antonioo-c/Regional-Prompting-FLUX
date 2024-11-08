@@ -163,7 +163,7 @@ We inference at speed **much faster** than the [RPG-based](https://github.com/Ya
     <td width="50%">
       <img src="assets/demo_custom_0.jpg" width="100%">
       <br>
-      <small><i>Note: Generation with segmention mask is a experimental function, the generated image is not perfectly constrained by the regions, we assume it is because the mask suffers from degradation during the downsampling process.</i></small>
+      <small><i>Note: Generation with segmentation mask is a experimental function, the generated image is not perfectly constrained by the regions, we assume it is because the mask suffers from degradation during the downsampling process.</i></small>
     </td>
   </tr>
 </table>
